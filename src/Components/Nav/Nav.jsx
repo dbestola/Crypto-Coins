@@ -4,6 +4,7 @@ import { FaBitcoin } from "react-icons/fa";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { FaArrowRight } from "react-icons/fa";
 
+
 const Nav = () => {
   return (
     <div className='nav-section'>
@@ -12,8 +13,8 @@ const Nav = () => {
     <nav>
        
         <ul>
-        <li>About <FaArrowRight /></li>
-        <li>Auth Coin <FaArrowRight /></li>
+        <li>About <FaArrowRight /> </li>
+        <li>Auth Coin <FaArrowRight /> </li>
         </ul>
        
     </nav>
