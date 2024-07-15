@@ -1,0 +1,28 @@
+.home-display{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 5rem;
+    text-align: center;
+    margin: 10rem 5rem;
+}
+
+
+
+.welcome-address{
+    color: red;
+    max-width: 30%;
+    width: 100%;
+    font-size: 2rem;
+}
+
+.image-container{
+ max-width: 60%;
+ width: 100%;
+}
+
+.image-container img {
+    max-width: 80%;
+    width:100%;
+    
+}
