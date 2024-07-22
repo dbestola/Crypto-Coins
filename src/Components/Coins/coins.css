@@ -1,0 +1,27 @@
+.coin-header{
+    color: #fff;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.table-header{
+    background-color: rgba(128, 128, 128, 0.342);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 0 150px;
+}
+
+.table-header ul {
+display: flex;
+justify-content: space-between;
+}
+
+.table-header ul li {
+    /* margin: auto; */
+    list-style: none;
+}
+
+.table-header ul li img {
+    width: 40px;
+    height: 40px;
+}
